@@ -1,1 +1,1 @@
-# IMDB-Reviews-Classifcation
+# IMDB-Reviews-Classification
